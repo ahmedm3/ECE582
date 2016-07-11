@@ -1,1 +1,1 @@
-# ECE582
+# ECE582 Projects
